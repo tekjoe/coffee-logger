@@ -1,0 +1,14 @@
+@import "./base/settings";
+@import "./base/base";
+
+.login {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
